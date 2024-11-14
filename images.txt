@@ -7,4 +7,4 @@
 alpine
 kasmweb/nginx
 python:alpine3.19
-
+cloudnas/clouddrive2:arm64-0.8.3
